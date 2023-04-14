@@ -1,0 +1,22 @@
+*{
+    
+    padding: 0;
+          margin: 0;
+          box-sizing: border;
+          font-family: Sans-Serif;
+          
+      }
+        body{
+          background: #ddd;
+        }
+
+          #container {
+  
+            height: 400px;
+            background: #fff;
+           padding: 50px;
+           position: fixed;
+           
+          }
+    
+          
